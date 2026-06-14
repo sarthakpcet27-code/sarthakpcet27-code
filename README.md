@@ -12,7 +12,7 @@
 ```python
 class SarthakGhogare:
     name       = "Sarthak Ghogare"
-    role       = ["BE IT Student", "Web Developer"]
+    role       = ["BTECH IT Student", "Web Developer"]
     location   = "Pimpri, Pune, Maharashtra"
     currently  = {
         "building" : "rapid-crisis-response (Emergency SOS System)",
